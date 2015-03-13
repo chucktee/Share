@@ -13,7 +13,9 @@ This was built in 3 days before BurningMan 2010.  This is a working example of h
 
 This is a WIP of a remote sensor platform running on an Arduino.  This is currently meant to monitor the battery health and use a Sainsmart relay to shutoff the battery if the charge falls below a critical rate.  This helps save expensive SLA batteries that I have in various remote / solar powered projects such as my APRS iGATE.
 
-This is written in a style where I would forsee sharing it with others to extend.
+The Arduino(s) are to be controlled over an I2C bus from a Raspberry Pi which is running a web interface for all Arduinos out on the bus.
+
+This is written in a style where I would foresee sharing it with others to extend.
 
 - Monitors battery voltage through a voltage divider
 - Monitors temperature and humidity with a [DHT22 Sensor](http://www.adafruit.com/products/385?gclid=CL-95abFpMQCFQenaQodpaQAVA)
