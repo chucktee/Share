@@ -1,5 +1,6 @@
 # Share
-99% of what I write I cannot share as it's for clients burdened with NDA's and copyrights, but what I can share I'm going to start posting in this repo.
+Unfortunately, 99% of what I write I cannot share as it's for clients burdened with NDA's and copyrights.  What I can share, I'm going to start posting in this repo.  Enjoy!
+
 
 ###Arduino/Chucks_GPS_2010.pde
 ![alt tag](images/1000w.png)
